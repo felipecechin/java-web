@@ -1,2 +1,2 @@
 # javaWeb
-Projeto feito no Eclipse JEE utilizando Hibernate com JPA, JSP e Servlets.
+Projeto feito no Eclipse JEE utilizando Java, Hibernate com JPA, JSP e Servlets.
